@@ -16,5 +16,12 @@ Accédez à la page d'inscription pour créer un nouveau compte.
 Connectez-vous avec les informations d'identification enregistrées.
 Utilisez l'application selon vos besoins.
 Déconnectez-vous lorsque vous avez terminé.
+# Interfaqces
+![image](https://github.com/Ourrsanae/BTP1/assets/143679582/4f5445f4-cb59-44a2-975f-abc3fb19e034)
+![image](https://github.com/Ourrsanae/BTP1/assets/143679582/b3e1b682-a121-4d08-b4cb-0a44141b2dac)
+![image](https://github.com/Ourrsanae/BTP1/assets/143679582/026cc4fc-4f59-44d0-8983-9cb05b9d6ded)
+![image](https://github.com/Ourrsanae/BTP1/assets/143679582/e2ab837e-2972-4b9c-8b05-fda9d630f468)
+![image](https://github.com/Ourrsanae/BTP1/assets/143679582/004e6241-495f-4a8a-a76b-a599dc7b42f3)
+
 
 
